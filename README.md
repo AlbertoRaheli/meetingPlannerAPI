@@ -34,7 +34,7 @@ The code is structured as follows:
 - `Timeslot`: This class represents a generic time slot with a start date&time and end date&time.
 
 - `Availability`: This class represents a list of common available Timeslots for a group of users. It has the possibility to set a maximum number of days before which the meeting must be scheduled and 
-              how many suggestions you want to request 
+              how many suggestions you want to retrive. 
 
 ## Setup and Usage
 
